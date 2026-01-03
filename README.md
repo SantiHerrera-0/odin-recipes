@@ -1,1 +1,1 @@
-# odin-recipes
+<!-- Este proyecto se va a tratar de una pagina web que va a contener diferentes links a recetas, los aprendizajes van a ser de diferentes habilidades con HTML-->
